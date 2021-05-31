@@ -1,0 +1,2 @@
+# Learining React 
+Hi, and i recently was thinking that i want to learn react just cause i see that its popular and it's really useful to know. I worked with Vue Js before a lot so that could make learning react easier.In this repo i will document everyday of my journey to become a React Master.
